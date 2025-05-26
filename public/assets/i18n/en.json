@@ -1,0 +1,38 @@
+{
+    "navbar": {
+        "home": "Home",
+        "about": "About",
+        "contact": "Contact"
+    },
+    "home": {
+        "card1": {
+            "title": "Winston Churchill",
+            "content": "Success is not final, failure is not fatal: It is the courage to continue that counts."
+        },
+        "card2": {
+            "title": "Lao Tzu",
+            "content": "The journey of a thousand miles begins with a single step."
+        },
+        "card3": {
+            "title": "Charles R. Swindoll",
+            "content": "Life is 10% what happens to us and 90% how we react to it."
+        }
+        
+    },
+    "about": {
+        "title": "About Me",
+        "welcome_message": "Welcome To My Website",
+        "content": "I am a programmer with a great passion for technology and a sharp logical thinking ability. I wish to become an expert in the field of software development and build applications that have practical value for the community."
+    },
+    "contact": {
+        "title": "Contact Me",
+        "description": "Feel free to contact me if you have any questions, or just want to say hi!",
+        "email_label": "Email:",
+        "phone_label": "Phone:",
+        "send_message_title": "Send me a message",
+        "name_placeholder": "Name",
+        "email_placeholder": "Email address",
+        "message_placeholder": "Message",
+        "send_button": "Send"
+    }
+}

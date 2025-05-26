@@ -1,0 +1,37 @@
+{
+    "navbar": {
+        "home": "主页",
+        "about": "关于",
+        "contact": "联系我们"
+    },
+    "home": {
+        "card1": {
+            "title": "温斯顿·丘吉尔",
+            "content": "成功并非终点，失败并非致命：继续前行的勇气才是最重要的。"
+        },
+        "card2": {
+            "title": "老子",
+            "content": "千里之行始于足下。"
+        },
+        "card3": {
+            "title": "查尔斯·R·斯温道尔",
+            "content": "生活中有10%取决于我们遭遇了什么，90%取决于我们如何应对。"
+        }
+    },
+    "about": {
+        "title": "关于我",
+        "welcome_message": "欢迎来到我的网站",
+        "content": "我是一名对技术充满热情、逻辑思维敏锐的程序员。我渴望成为软件开发专家并构建对社区具有实用价值的应用程序。"
+    },
+    "contact": {
+        "title": "联系我",
+        "description": "如果您有任何问题，或只想打个招呼，请随时与我联系！",
+        "email_label": "电子邮件：",
+        "phone_label": "电话：",
+        "send_message_title": "给我发消息",
+        "name_placeholder": "姓名",
+        "email_placeholder": "电子邮件地址",
+        "message_placeholder": "信息",
+        "send_button": "发送"
+    }
+}

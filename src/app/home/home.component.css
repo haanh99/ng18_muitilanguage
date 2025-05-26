@@ -1,0 +1,19 @@
+.caculate{
+    height: 100%;
+    width: 100%;
+    position: relative;
+}
+.glass-container{
+    height: 50%;
+    width: 40%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%)
+}
+@media screen and (max-width: 576px){
+  .glass-container{
+      height: 50%;
+      width: 80%;
+      position: absolute;
+  }}

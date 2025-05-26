@@ -1,0 +1,37 @@
+{
+    "navbar": {
+        "home": "Zuhause",
+        "about": "Über",
+        "contact": "Kontakt"
+    },
+    "home": {
+        "card1": {
+            "title": "Winston Churchill",
+            "content": "Erfolg ist nicht endgültig, Misserfolg ist nicht tödlich: Es zählt der Mut, weiterzumachen."
+        },
+        "card2": {
+            "title": "Laozi",
+            "content": "Die Reise von tausend Meilen beginnt mit einem einzigen Schritt."
+        },
+        "card3": {
+            "title": "Charles R. Swindoll",
+            "content": "Das Leben ist zu 10% das, was uns passiert, und zu 90% wie wir darauf reagieren."
+        }
+    },
+    "about": {
+        "title": "Über mich",
+        "welcome_message": "Willkommen auf meiner Website",
+        "content": "Ich bin ein Programmierer mit großer Leidenschaft für Technologie und ausgeprägter logischer Denkfähigkeit. Ich strebe danach, ein Experte in der Softwareentwicklung zu werden und Anwendungen zu erstellen, die einen praktischen Wert für die Community haben."
+    },
+    "contact": {
+        "title": "Kontaktieren Sie mich",
+        "description": "Fühlen Sie sich frei, mich zu kontaktieren, wenn Sie Fragen haben oder einfach nur Hallo sagen möchten!",
+        "email_label": "Email:",
+        "phone_label": "Telefon:",
+        "send_message_title": "Schicken Sie mir eine Nachricht",
+        "name_placeholder": "Name",
+        "email_placeholder": "E-Mail-Adresse",
+        "message_placeholder": "Nachricht",
+        "send_button": "Senden"
+    }
+}

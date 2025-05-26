@@ -1,0 +1,37 @@
+{
+    "navbar": {
+        "home": "Trang chủ",
+        "about": "Giới thiệu",
+        "contact": "Liên hệ"
+    },
+    "home": {
+        "card1": {
+            "title": "Winston Churchill",
+            "content": "Thành công không phải là điểm cuối, thất bại không phải là chết người: Điều quan trọng là lòng dũng cảm để tiếp tục."
+        },
+        "card2": {
+            "title": "Lão Tử",
+            "content": "Hành trình của nghìn dặm bắt đầu bằng một bước chân."
+        },
+        "card3": {
+            "title": "Charles R. Swindoll",
+            "content": "Cuộc sống chiếm 10% là những gì xảy ra với chúng ta và 90% là cách chúng ta phản ứng với nó."
+        }
+    },
+    "about": {
+        "title": "Về tôi",
+        "welcome_message": "Chào mừng đến với trang web của tôi",
+        "content": "Tôi là một lập trình viên với niềm đam mê lớn dành cho công nghệ và khả năng tư duy logic nhạy bén. Tôi mong muốn trở thành một chuyên gia trong lĩnh vực phát triển phần mềm và xây dựng những ứng dụng có giá trị thực tiễn cho cộng đồng."
+    },
+    "contact": {
+        "title": "Liên hệ với tôi",
+        "description": "Hãy liên hệ với tôi nếu bạn có bất kỳ câu hỏi nào hoặc chỉ muốn nói xin chào!",
+        "email_label": "Email:",
+        "phone_label": "Điện thoại:",
+        "send_message_title": "Gửi tin nhắn cho tôi",
+        "name_placeholder": "Họ và tên",
+        "email_placeholder": "Địa chỉ email",
+        "message_placeholder": "Tin nhắn",
+        "send_button": "Gửi"
+    }
+}
