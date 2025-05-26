@@ -32,7 +32,7 @@ export class SliderComponent {
   ngOnInit() {
     setInterval(() => {
       this.currentIndex = (this.currentIndex + 1) % this.content.length;
-    }, 3000);
+    }, 5000);
   }
 
 }

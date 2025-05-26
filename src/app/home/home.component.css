@@ -9,7 +9,8 @@
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(-50%, -50%)
+    transform: translate(-50%, -50%);
+    transition: all 10s ease-in-out;
 }
 @media screen and (max-width: 576px){
   .glass-container{
